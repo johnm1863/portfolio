@@ -7,7 +7,7 @@
 </head>
 <body>
     <marquee behavior="scroll" direction="right">
-        <h1>Happy Holidays from EURALJOS!</h1>
+        <h1>HAPPY HOLIDAYS! from ...EURALJOS!</h1>
     </marquee>
 </body>
 </html>
